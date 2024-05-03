@@ -80,4 +80,4 @@ python app.gradio.py
 1. 导入时政语料，将其转换为RAG知识库
 2. 填入token后，在线调用百度大模型进行问答
 3. 点击submit按钮，即可进行在线问答。
-![img.png](images/rag.png)
+![img.png](images/RAG.png)
