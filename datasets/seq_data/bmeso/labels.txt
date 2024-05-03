@@ -1,0 +1,13 @@
+O
+B-time
+B-loc
+B-person
+M-time
+M-loc
+M-person
+E-time
+E-loc
+E-person
+S-time
+S-loc
+S-person
